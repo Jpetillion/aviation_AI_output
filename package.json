@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@langchain/langgraph": "^0.2.49",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security"
+  },
+  "name": "aviation_ai_output",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "## project description ### research Aviatize AI is a two-legged project which aims to build intelligence and predictions around the educational paths of students in aviation schools.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpetillion/aviation_AI_output.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jpetillion/aviation_AI_output/issues"
+  },
+  "homepage": "https://github.com/Jpetillion/aviation_AI_output#readme"
+}

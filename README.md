@@ -1,5 +1,4 @@
 # aviation_AI_output
-# aviation_AI
 
 ## project description
 ### research
